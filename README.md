@@ -8,10 +8,11 @@ Saya Nashwa Nadria Futi dengan NIM 2308130 mengerjakan Tes Praktikum 2 dalam mat
 
 # Penjelasan Atribut dan Method
 Empat file utama:
-* Petshop.cpp (Parent class) dengan atribut ID, Nama, Kategori, Harga
-* Aksesoris.cpp (Anak dari Petshop) dengan atribut Jenis, Bahan, Warna
-* Baju.cpp (Anak dari Aksesoris) dengan atribut Untuk, Size, Merk
-* main.cpp (Mengelola daftar produk dan menampilkan menu)
+* Petshop (Parent class) dengan atribut ID, Nama, Kategori, Harga
+* Aksesoris (Anak dari Petshop) dengan atribut Jenis, Bahan, Warna
+* Baju (Anak dari Aksesoris) dengan atribut Untuk, Size, Merk
+* main (Mengelola daftar produk dan menampilkan menu)
+* add_product di php untuk page menambahkan data
 
 # Alur Program
 1. Sudah ada 5 data awal di dalam daftar produk.
