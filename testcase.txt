@@ -2,6 +2,7 @@
 Renda
 Aksesoris
 20000
+10
 Baju
 Katun
 Hitam
